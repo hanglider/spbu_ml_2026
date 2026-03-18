@@ -9,6 +9,8 @@ scikit-learn
 scipy
 seaborn
 statsmodels
+PyALE
+shap
 torchmetrics
 torchvision
 tqdm
@@ -18,3 +20,4 @@ black
 isort
 mypy
 pylint
+lime
